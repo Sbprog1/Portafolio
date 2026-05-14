@@ -28,7 +28,7 @@ export default function App() {
         borderTop: '1px solid var(--border)',
         background: 'var(--bg-secondary)',
       }}>
-        <p>Diseñado & Desarrollado con ❤️ por <span style={{ color: 'var(--accent-purple)' }}>Sebastian Bustamante</span> © {new Date().getFullYear()}</p>
+        <p>Diseñado & Desarrollado por <span style={{ color: 'var(--accent-purple)' }}>Sebastian Bustamante</span> © {new Date().getFullYear()}</p>
       </footer>
     </>
   )
